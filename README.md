@@ -1,5 +1,5 @@
 <div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
- ## Hi there 👋
+## Hi there 👋
   
    [![HELLO!](https://readme-typing-svg.demolab.com/?lines=Hello!)](https://git.io/typing-svg)
 
