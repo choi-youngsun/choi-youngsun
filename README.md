@@ -1,7 +1,7 @@
 <div align="center">
   
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Hello!👋" alt="HELLO!">
+    <img align="center" src="https://readme-typing-svg.demolab.com/?lines=Hello!👋" alt="HELLO!">
   </a>
   <br/>
   <div style="width: 300px; margin: auto; display: flex; flex-wrap: wrap; justify-content: center; gap: 8px;">
