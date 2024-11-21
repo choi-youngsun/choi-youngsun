@@ -1,4 +1,4 @@
-<div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center' }}>
+<div style={{ display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent:'center' }}>
   
    [![HELLO!](https://readme-typing-svg.demolab.com/?lines=Hello!👋)](https://git.io/typing-svg)
 
