@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![HELLO!](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![HELLO!](https://readme-typing-svg.demolab.com/?lines=Hello!)](https://git.io/typing-svg)
 
 <img src='https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white
 ' alt='자바스크립트 아이콘'>
